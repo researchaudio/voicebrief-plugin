@@ -1,11 +1,13 @@
 {
   "name": "voicebrief",
   "description": "Turn any PDF into an audio lesson with AI summaries, quizzes, and voice chat tutors. Study smarter by listening.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "VoiceBrief"
   },
   "homepage": "https://voicebrief.io",
   "repository": "https://github.com/researchaudio/voicebrief-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["pdf", "audio", "study", "learning", "tts", "quiz", "flashcards", "voice-chat"],
+  "commands": "./commands/"
 }
